@@ -1,6 +1,6 @@
 # Twitter_Sentiment_Data_Analysis
 
-![featured](https://user-images.githubusercontent.com/92082666/218293617-d8a863ec-2b3d-44bb-88f8-97899acfce3c.jpg)
+![featured](https://user-images.githubusercontent.com/92082666/218293759-7b1ae10b-316b-480f-987d-a94039102cf7.jpg)
 
 It is a Natural Language Processing Problem where Sentiment Analysis is done by Classifying the Positive tweets from negative tweets by machine learning models for classification, text mining, text analysis, data analysis and data visualization
 
